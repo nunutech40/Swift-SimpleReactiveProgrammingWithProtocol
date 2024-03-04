@@ -1,6 +1,8 @@
 # Reactive Programming simple with Only Protocol
 
-<img width="629" alt="Screenshot 2024-03-04 at 09 53 07" src="https://github.com/nunutech40/Swift-SimpleReactiveProgrammingWithProtocol/assets/49187517/6378f96c-e45c-408f-846b-3c9cd3306291">
+
+https://github.com/nunutech40/Swift-SimpleReactiveProgrammingWithProtocol/assets/49187517/42c957e9-e63d-4eb8-bc20-f99b314a0f35
+
 
 Saat ada data baru, para object subrciber yang ditambahkan ke objek Observable akan menerima perubahan jika tombol Send Data di click.
 Tombol send data merubah value pada object ovservable dari data yang di inputkan ke input text.
